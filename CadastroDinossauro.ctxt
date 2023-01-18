@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CadastroDinossauro
+comment0.text=\ Alunos\:\ 18200315\ -\ Paulo\ Vinicius\ Pretto\r\n\ \ \ \ \ \ \ \ \ 21180520\ -\ rodrigo\ rampon\ basso\r\n\ \ \ \ \ \ \ \ \ Fundamentos\ De\ Programacao\ -\ turma\ 136\ -\ 2021/1\r\n
+comment1.params=dino
+comment1.target=boolean\ adicionarDinossauro(Dinossauro)
+comment2.params=id
+comment2.target=Dinossauro\ pesquisarDinossauro(int)
+comment3.params=id
+comment3.target=boolean\ removerDinossauro(int)
+comment4.params=
+comment4.target=java.lang.String\ dinosNoParque()
+comment5.params=tipo\ categoria
+comment5.target=Dinossauro\ pesoPesado(int,\ int)
+comment6.params=
+comment6.target=double\ comidaCarnivoros()
+comment7.params=id\ dDinoBuncker\ dPessoaBunker
+comment7.target=boolean\ run(int,\ double,\ double)
+numComments=8
